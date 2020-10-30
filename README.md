@@ -1,4 +1,4 @@
-# mortgage_data
+# Plotting Mortgage Applications and Approval Rates Across U.S. Counties
 County-level plots of U.S. mortgage applications and variables
 
 This R code takes county-level data on the change in number of home-purchase mortgage applications and mortgage approval rates in a county and plots them on a map. The data are sourced from the Home Mortgage Disclosure Act’s (HMDA) annually released datasets. I use an intermediate version of these datasets, for years 2010 through 2015, aggregated to the county level.
